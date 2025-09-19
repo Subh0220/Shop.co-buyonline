@@ -2,7 +2,7 @@
 
 Welcome to Shop.co, your ultimate destination for stylish and high-quality clothing! 
 
-[![Shop.co](main.png)](https://chop-co.netlify.app)
+[![Shop.co](main.png)](https://shop-co-buyonline.vercel.app/)
 
 ## About
 
@@ -36,7 +36,7 @@ Contributions are welcome! Feel free to submit pull requests to help improve Sho
 
 ## Feedback
 
-If you have any feedback or suggestions for improvement, please don't hesitate to [contact me](mailto:mmuummnna@gmail.com). Your input is highly valued!
+If you have any feedback or suggestions for improvement, please don't hesitate to [contact me](mailto:subhasreesahu02@gmail.com). Your input is highly valued!
 
 Happy shopping!
 
