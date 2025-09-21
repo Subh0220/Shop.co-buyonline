@@ -6,7 +6,7 @@ Welcome to Shop.co, your ultimate destination for stylish and high-quality cloth
 
 ## About
 
-Shop.co is a modern e-commerce website created with a passion for fashion and technology. Developed by [Moemen Adam], this project combines sleek design, efficient functionality, and captivating animations to provide users with an exceptional shopping experience.
+Shop.co is a modern e-commerce website created with a passion for fashion and technology. Developed by [Subhasree Sahu], this project combines sleek design, efficient functionality, and captivating animations to provide users with an exceptional shopping experience.
 
 The design for Shop.co was inspired by [freefigmatemplates.com](https://www.freefigmatemplates.com), ensuring a visually stunning and user-friendly interface.
 
